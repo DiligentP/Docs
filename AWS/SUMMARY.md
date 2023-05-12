@@ -1,6 +1,6 @@
 # Table of contents
 
-* [AWS (Amazone Web Service)](<AWS (Amazone Web Service).md>)
+* [AWS (Amazone Web Service)](README.md)
 * [AWS CDK (Cloud Development Kit)](<AWS CDK (Cloud Development Kit).md>)
 * [AWS CloudFront](<AWS CloudFront.md>)
 * [AWS Console](<AWS Console.md>)
