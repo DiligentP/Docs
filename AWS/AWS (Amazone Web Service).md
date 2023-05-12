@@ -3,7 +3,6 @@ AWS는 아마존에서 제공하는 가장 큰 규모의 클라우드 서비스 
 
 
 ## 서비스 종류
----
 ### Networking Service
 [VPC](<AWS VPC (Virtual Private Cloud).md>) ⭐⭐⭐⭐⭐
 - VPC 는 격리된 리소스의 집합으로 구성된 AWS의 가상 데이터 센터
