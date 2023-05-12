@@ -6,10 +6,10 @@ AWS EC2는 가상화된 자원으로 일정한 컴퓨팅 용량을 제공하는 
 ## Ubuntu EC2 Instance 생성하기
 ---
 
-![[Pasted image 20230512234849.png]](<./Image/Pasted image 20230512234849.png>)
-![[Pasted image 20230512234902.png]](<./Image/Pasted image 20230512234902.png>)
+![[EC2 Instance 생성하기 1]](<./Image/Pasted image 20230512234849.png>)
+![[EC2 Instance 생성하기 2]](<./Image/Pasted image 20230512234902.png>)
 
 ## Instance 접속하기
 ---
-![[Pasted image 20230512235018.png]](<./Image/Pasted image 20230512235018.png>)
+![[Instance 접속하기]](<./Image/Pasted image 20230512235018.png>)
 
