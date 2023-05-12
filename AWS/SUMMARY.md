@@ -1,5 +1,6 @@
 # Table of contents
 
+* [README](<README.md>)
 * [AWS (Amazone Web Service)](<AWS (Amazone Web Service).md>)
 * [AWS CDK (Cloud Development Kit)](<AWS CDK (Cloud Development Kit).md>)
 * [AWS CloudFront](<AWS CloudFront.md>)
@@ -19,4 +20,3 @@
 * [AWS Storage Gateway](<AWS Storage Gateway.md>)
 * [AWS VPC (Virtual Private Cloud)](<AWS VPC (Virtual Private Cloud).md>)
 * [AWS RDS](AWS.md)
-* [README](<README.md>)
