@@ -1,7 +1,6 @@
 # Table of contents
 
-* [AWS](README.md)
-* [AWS App Runner](<AWS App Runner.md>)
+* [AWS App Runner](README.md)
 * [AWS CDK (Cloud Development Kit)](<AWS CDK (Cloud Development Kit).md>)
 * [AWS CloudFront](<AWS CloudFront.md>)
 * [AWS EBS](<AWS EBS.md>)
