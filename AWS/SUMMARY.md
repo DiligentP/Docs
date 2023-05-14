@@ -20,4 +20,3 @@
 	* [AWS Snowball](<AWS Snowball.md>)
 	* [AWS Storage Gateway](<AWS Storage Gateway.md>)
 	* [AWS VPC (Virtual Private Cloud)](<AWS VPC (Virtual Private Cloud).md>)
-
