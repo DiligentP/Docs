@@ -10,7 +10,7 @@
 	* [AWS EBS](<AWS EBS.md>)
 	* [AWS EC2 Container Service](<AWS EC2 Container Service.md>)
 	* [AWS EC2](<AWS EC2.md>)
-	* [AWS EFS (Elastic File Storage)](<AWS EFS (Elastic File Storage).md>)
+	* [AWS EFS](AWS%20EFS.md EFS (Elastic File Storage).md>)
 	* [AWS Elastic Beanstalk](<AWS Elastic Beanstalk.md>)
 	* [AWS Glacier](<AWS Glacier.md>)
 	* [AWS Lambda](<AWS Lambda.md>)
@@ -20,3 +20,7 @@
 	* [AWS Snowball](<AWS Snowball.md>)
 	* [AWS Storage Gateway](<AWS Storage Gateway.md>)
 	* [AWS VPC (Virtual Private Cloud)](<AWS VPC (Virtual Private Cloud).md>)
+
+- AWS 주요 관리 도구
+	- AWS Management Console
+	- AWS CLI (Command Line Interface)
