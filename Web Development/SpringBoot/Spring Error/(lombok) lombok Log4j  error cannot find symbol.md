@@ -1,0 +1,1 @@
+[lombok과 Log4j : error: cannot find symbol 오류 해결 방법 (tistory.com)](https://woodeekim.tistory.com/33)

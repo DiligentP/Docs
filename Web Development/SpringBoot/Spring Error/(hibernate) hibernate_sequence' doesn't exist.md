@@ -1,0 +1,1 @@
+@GeneratedValue(strategy = GenerationType.AUTO)를 @GeneratedValue(strategy = GenerationType.IDENTITY) 로 바꾸지 않아서 발생하는 문제 였다.
