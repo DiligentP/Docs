@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"0c37c066dd1bc41a","x":-320,"y":-240,"width":250,"height":50,"type":"text","text":"ㄴㅇㄴㅁㅇㄴ"},
+		{"id":"9e2cf7fdb9655f11","x":-320,"y":-140,"width":250,"height":110,"color":"1","type":"text","text":"캔버스 ~~"}
+	],
+	"edges":[]
+}
