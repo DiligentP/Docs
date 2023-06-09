@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"text","text":"# React\n페이스북(facebood)=현 메타(meta)가 적극 지원","id":"5169a080878d0c53","x":-219,"y":-149,"width":419,"height":269},
+		{"type":"text","text":"2023-06월 기준","id":"ca731172dfee6ea5","x":-219,"y":-220,"width":250,"height":54},
+		{"type":"text","text":"Angular\n- 사용 거의 안하는 추세","id":"0a824ffa1477912d","x":-219,"y":140,"width":320,"height":269},
+		{"type":"text","text":"## Vue\n- SI 업체나 중소기업 등에서 사용","id":"e23f91e87fde52d2","x":240,"y":-149,"width":360,"height":269}
+	],
+	"edges":[]
+}
