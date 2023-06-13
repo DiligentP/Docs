@@ -10,4 +10,5 @@
 [토스ㅣSLASH 23 - 프로파일러로 시스템 성능 향상시키기 - YouTube](https://www.youtube.com/watch?v=tZjjqhnwtYY)
 [토스ㅣSLASH 23 - Kafka 이중화로 다양한 장애 상황 완벽 대처하기 - YouTube](https://www.youtube.com/watch?v=Pzkioe7Dvo4)\
 [토스ㅣSLASH 23 - 분산 추적 체계 & 로그 중심으로 Observability 확보하기 - YouTube](https://www.youtube.com/watch?v=Ifz0LsfAG94)
-
+[토스ㅣSLASH 23 - 새로운 은행을 위한 Modern 대외 연계 시스템 구축기 - YouTube](https://www.youtube.com/watch?v=eS9tukmYBLI)
+[토스ㅣSLASH 23 - 금융사 최초의 Zero Trust 아키텍처 도입기 - YouTube](https://www.youtube.com/watch?v=2V2xYeqUsWw)

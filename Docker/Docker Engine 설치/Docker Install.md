@@ -13,12 +13,12 @@ choco install docker-cli
 
 ### Lunux - Ubuntu
 ```shell
-# docker 스크립트 파일 제공
-curl -sSL http://get.docker.com | bash
-
 # Ubuntu
 sudo apt-get update
-sudo apt-get install curl
+sudo apt-get install curl -y
+
+# docker 스크립트 파일 제공
+curl -sSL http://get.docker.com | bash
 
 # Start Docker
 sudo systemctl enabled docker --now
@@ -27,6 +27,9 @@ sudo systemctl start docker --now
 
 ### Linux - CentOS
 ```shell
+sudo yum update
+sudo yum install curl -y
+
 # 도커 패키지를 설치합니다.
 curl -sSL http://get.docker.com | bash
 
@@ -46,8 +49,6 @@ hostname -I
 ---
 172.18.82.206 172.17.0.1
 ...
-
-
 ```
 
 
