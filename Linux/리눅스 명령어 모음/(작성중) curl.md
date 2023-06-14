@@ -5,11 +5,11 @@
 
 설치
 ```
-# Ububtu 및 Debian 계열
+# Ububtu / Debian
 apt update
 apt install curl
 
-# CentOS 및 Fedora, Redhat 계열
+# CentOS / Redhat
 yum install curl
 ```
 
@@ -19,6 +19,25 @@ curl [OPTIONS] <URL>
 ```
 
 옵션
+- `curl -v`를 실행하면 다음과 같은 추가 출력이 터미널에 표시됩니다:
+
+1. DNS 해결 및 연결 설정에 대한 정보
+2. 서버로 전송된 HTTP 요청 헤더
+3. 서버로부터 수신한 HTTP 응답 헤더
+4. 응답 본문의 내용(있는 경우)
+
+```
+curl -v https://example.com
+```
+
+- `curl -H` : 해더 값을 전달하기 위한 옵션
+
+```
+curl -H "Content-Type: application/json"
+curl -H "Content-Length: 0"
+```
+
+- `curl -l` Header 정보만 필요한 경우
 ```
 
 ```
