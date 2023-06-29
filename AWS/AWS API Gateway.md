@@ -1,0 +1,1 @@
+[[AWS] API Gateway에서 Query String 사용하는 법 :: Gyun's 개발일지](https://devlog-wjdrbs96.tistory.com/332)
